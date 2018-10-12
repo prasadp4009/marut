@@ -29,8 +29,9 @@ The project is released under Apache 2.0 License.
 
 Contact me on Github or on prasadp4009(at)gmail.com for any querries.
 
-For your curiosity meaning of *Marut* can be understood from [Wikipedia] page
-[Wikipedia]:https://en.wikipedia.org/wiki/Maruts
+For your curiosity meaning of *Marut* can be understood from [Wikipedia] page.
+
+[Wikipedia]: https://en.wikipedia.org/wiki/Maruts
 
 
 
