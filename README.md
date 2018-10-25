@@ -18,9 +18,9 @@ Timeline of project: (Deadline is November 26, 2018)
 
 Due Date | Task Completion | Current Status
 ---------|-----------------|-------------
-10-14-18| Architecture Planning | Ongoing
-10-17-18| Project Skeleton | NA
-10-27-18| Initial Release with Design and TB | NA
+10-14-18| Architecture Planning | Done
+10-17-18| Project Skeleton | Done
+10-27-18| Initial Release with Design and TB | Ongoing
 11-03-18| FPGA Implementation and Zephyr Boot | NA
 11-20-18| Optimization and Benchmarking | NA
 11-24-18| Final Check |NA
